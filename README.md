@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhannad</h1>
-<h3 align="center">A passionate AI Engineer and Data Scientist from Egypt</h3>
+# 🕷️ MuhannadX
+
+**`AI & Software Engineer`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhannad-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="muhannad-khaled" /> </p>
 
