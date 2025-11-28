@@ -3,7 +3,7 @@
 **`AI & Software Engineer`**
 
 ---
-I am Muhannad, an AI Engineer, Machine Learning Specialist, and Python Backend Developer with strong expertise in building scalable, production-ready AI systems. My work focuses on LLM-based agents, real-time data processing, and distributed architectures that power intelligent applications at scale.
+I'm Muhannad, an AI Engineer, Machine Learning Specialist, and Python Backend Developer with strong expertise in building scalable, production-ready AI systems. My work focuses on LLM-based agents, real-time data processing, and distributed architectures that power intelligent applications at scale.
 
 With deep experience in Python, asynchronous programming, and modern backend frameworks, I design high-performance systems that integrate seamlessly with LLMs, MCP tools, vector databases, and cloud infrastructure. I also work extensively with real-time sensor pipelines, including MPU-6050 IMU and ESP32, developing low-latency gesture recognition and streaming ML systems.
 
