@@ -9,16 +9,65 @@ With deep experience in Python, asynchronous programming, and modern backend fra
 
 Beyond engineering, I excel at technical communication, delivering clear explanations, professional reports, and polished presentations — even to non-technical audiences such as medical professionals.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Muhannad-Khaled?tab=followers">
+    <img 
+      alt="GitHub followers" 
+      title="Follow me on GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Muhannad-Khaled?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+    />
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/Muhannad-Khaled?tab=repositories&sort=stargazers">
+    <img 
+      alt="GitHub stars" 
+      title="Total stars on GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Muhannad-Khaled?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"
+    />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img 
+      alt="LinkedIn" 
+      title="Connect on LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img 
+      alt="Instagram" 
+      title="Follow me on Instagram"
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+    <img 
+      alt="Facebook" 
+      title="Follow me on Facebook" 
+      src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://twitter.com/YOUR_X_USERNAME">
+    <img 
+      alt="X (Twitter)" 
+      title="Follow me on X" 
+      src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"
+    />
+  </a>
+
+</p>
+
+
 
 ---
 
