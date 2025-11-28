@@ -2,6 +2,10 @@
 
 **`AI & Software Engineer`**
 
+---
+![image](https://github.com/Muhannad-Khaled/Muhannad-Khaled/blob/main/coding%20internet%20security%20GIF%20by%20Matthew%20Butler.gif?raw=true)
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhannad-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="muhannad-khaled" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhannad-khaled" alt="muhannad-khaled" /></a> </p>
