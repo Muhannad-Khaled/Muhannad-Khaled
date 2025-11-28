@@ -30,7 +30,7 @@ Beyond engineering, I excel at technical communication, delivering clear explana
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/muhannad-khaled/">
     <img 
       alt="LinkedIn" 
       title="Connect on LinkedIn" 
@@ -39,7 +39,7 @@ Beyond engineering, I excel at technical communication, delivering clear explana
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/_muhannadx_/">
     <img 
       alt="Instagram" 
       title="Follow me on Instagram"
@@ -48,7 +48,7 @@ Beyond engineering, I excel at technical communication, delivering clear explana
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+  <a href="https://www.facebook.com/profile.php?id=61556815351599">
     <img 
       alt="Facebook" 
       title="Follow me on Facebook" 
@@ -57,9 +57,9 @@ Beyond engineering, I excel at technical communication, delivering clear explana
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://twitter.com/YOUR_X_USERNAME">
+  <a href="https://twitter.com/Muhannadd_77">
     <img 
-      alt="X (Twitter)" 
+      alt="X" 
       title="Follow me on X" 
       src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"
     />
@@ -67,10 +67,7 @@ Beyond engineering, I excel at technical communication, delivering clear explana
 
 </p>
 
-
-
 ---
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhannad-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="muhannad-khaled" /> </p>
 
