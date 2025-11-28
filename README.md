@@ -3,12 +3,37 @@
 **`AI & Software Engineer`**
 
 ---
-![image](https://github.com/Muhannad-Khaled/Muhannad-Khaled/blob/main/coding%20internet%20security%20GIF%20by%20Matthew%20Butler.gif?raw=true)
+I am Muhannad, an AI Engineer, Machine Learning Specialist, and Python Backend Developer with strong expertise in building scalable, production-ready AI systems. My work focuses on LLM-based agents, real-time data processing, and distributed architectures that power intelligent applications at scale.
+
+With deep experience in Python, asynchronous programming, and modern backend frameworks, I design high-performance systems that integrate seamlessly with LLMs, MCP tools, vector databases, and cloud infrastructure. I also work extensively with real-time sensor pipelines, including MPU-6050 IMU and ESP32, developing low-latency gesture recognition and streaming ML systems.
+
+Beyond engineering, I excel at technical communication, delivering clear explanations, professional reports, and polished presentations — even to non-technical audiences such as medical professionals.
+
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 ---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhannad-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="muhannad-khaled" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhannad-khaled" alt="muhannad-khaled" /></a> </p>
+
+<div align="center">
+
+
+![image](https://github.com/Muhannad-Khaled/Muhannad-Khaled/blob/main/coding%20internet%20security%20GIF%20by%20Matthew%20Butler.gif?raw=true)
+
+
+</div>
 
 - 📫 How to reach me **muhannadkhaledd@gmail.com**
 
