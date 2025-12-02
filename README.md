@@ -61,9 +61,6 @@
   <img src="https://streak-stats.demolab.com?user=Muhannad-Khaled&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhannad-Khaled&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true"/>
-</p>
 
 <!-- Snake Animation -->
 <p align="center">
