@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%F0%9F%95%B7%EF%B8%8F+MuhannadX" alt="MuhannadX" />
 </h1>
 
-<h3 align="center">AI & Software Engineer</h3>
+<h2 align="center">AI & Software Engineer</h2>
 
 <p align="center">
   <a href="https://github.com/Muhannad-Khaled">
