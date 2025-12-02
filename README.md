@@ -1,100 +1,155 @@
-# 🕷️ MuhannadX
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=MuhannadX&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Software%20Engineer&descSize=20&descAlignY=55&descAlign=50"/>
 
-**`AI & Software Engineer`**
-
----
-I'm Muhannad, an AI Engineer, Machine Learning Specialist, and Python Backend Developer with strong expertise in building scalable, production-ready AI systems. My work focuses on LLM-based agents, real-time data processing, and distributed architectures that power intelligent applications at scale.
-
-With deep experience in Python, asynchronous programming, and modern backend frameworks, I design high-performance systems that integrate seamlessly with LLMs, MCP tools, vector databases, and cloud infrastructure. I also work extensively with real-time sensor pipelines, including MPU-6050 IMU and ESP32, developing low-latency gesture recognition and streaming ML systems.
-
-Beyond engineering, I excel at technical communication, delivering clear explanations, professional reports, and polished presentations — even to non-technical audiences such as medical professionals.
-
-<p align="left">
-
-  <!-- GitHub Followers -->
-  <a href="https://github.com/Muhannad-Khaled?tab=followers">
-    <img 
-      alt="GitHub followers" 
-      title="Follow me on GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Muhannad-Khaled?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-    />
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Muhannad-Khaled">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Transforming+Ideas+into+AI-Powered+Solutions;Engineering+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
   </a>
-
-  <!-- GitHub Stars -->
-  <a href="https://github.com/Muhannad-Khaled?tab=repositories&sort=stargazers">
-    <img 
-      alt="GitHub stars" 
-      title="Total stars on GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/Muhannad-Khaled?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"
-    />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muhannad-khaled/">
-    <img 
-      alt="LinkedIn" 
-      title="Connect on LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_muhannadx_/">
-    <img 
-      alt="Instagram" 
-      title="Follow me on Instagram"
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=61556815351599">
-    <img 
-      alt="Facebook" 
-      title="Follow me on Facebook" 
-      src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    />
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://twitter.com/Muhannadd_77">
-    <img 
-      alt="X" 
-      title="Follow me on X" 
-      src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"
-    />
-  </a>
-
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhannad-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="muhannad-khaled" /> </p>
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;
+  <span style="color: #00d9ff;">About Me</span>
+</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhannad-khaled" alt="muhannad-khaled" /></a> </p>
-
-<div align="center">
-
-
-![image](https://github.com/Muhannad-Khaled/Muhannad-Khaled/blob/main/coding%20internet%20security%20GIF%20by%20Matthew%20Butler.gif?raw=true)
-
-
-</div>
-
-- 📫 How to reach me **muhannadkhaledd@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1HAWiBWmtoNV2zkQ4VxEFVirCA0hetY_l?usp=sharing](https://drive.google.com/drive/folders/1HAWiBWmtoNV2zkQ4VxEFVirCA0hetY_l?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhannadd_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhannadd_77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhannad-khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhannad-khaled" height="30" width="40" /></a>
-<a href="https://instagram.com/_muhannadd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muhannad_" height="30" width="40" /></a>
+<p align="center">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```yaml
+name: Muhannad
+alias: MuhannadX
+role: AI & Software Engineer
+location: Building the Future
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannad-khaled&show_icons=true&locale=en&layout=compact" alt="muhannad-khaled" /></p>
+expertise:
+  - Artificial Intelligence & Machine Learning
+  - Deep Learning & Neural Networks
+  - Software Architecture & Engineering
+  - LLM Integration & AI Applications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannad-khaled&show_icons=true&locale=en" alt="muhannad-khaled" /></p>
+currently:
+  - Crafting intelligent systems with PyTorch & TensorFlow
+  - Building next-gen AI applications with LangChain
+  - Exploring the frontiers of Generative AI
+
+philosophy: "Code is poetry, AI is the muse."
+```
+
+<br clear="both"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp;
+  Tech Arsenal
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin&theme=dark" alt="Languages" /><br/>
+  <sub><b>Languages</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML Frameworks" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <br/>
+  <sub><b>AI & Data Science</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <br/>
+  <sub><b>LLM & Generative AI</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux&theme=dark" alt="Tools" /><br/>
+  <sub><b>Tools & Platforms</b></sub>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Stats Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">&nbsp;
+  GitHub Analytics
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Muhannad-Khaled">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhannad-Khaled&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=8b5cf6&text_color=c9d1d9&ring_color=00d9ff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhannad-Khaled&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Muhannad-Khaled">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhannad-Khaled&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=8b5cf6&fire=00d9ff&currStreakLabel=00d9ff"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Muhannad-Khaled">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhannad-Khaled&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=8b5cf6&point=00d9ff&area=true&area_color=8b5cf6"/>
+  </a>
+</p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhannad-Khaled/Muhannad-Khaled/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhannad-Khaled/Muhannad-Khaled/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Muhannad-Khaled/Muhannad-Khaled/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp;
+  Let's Connect
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Muhannad-Khaled" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhannad-khaled/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61556815351599" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/_muhannadx_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/Muhannadd_77" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+<!-- Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Alan%20Kay" alt="Quote"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhannad-Khaled&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer"/>
