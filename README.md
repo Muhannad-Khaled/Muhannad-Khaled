@@ -62,10 +62,6 @@
 </p>
 
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muhannad-Khaled/Muhannad-Khaled/output/github-snake-dark.svg" width="100%"/>
-</p>
 
 ---
 
