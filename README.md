@@ -52,16 +52,18 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhannad-Khaled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhannad-Khaled&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="165"/>
-</div>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhannad-Khaled&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhannad-Khaled&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhannad-Khaled&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhannad-Khaled&theme=tokyonight&utcOffset=3"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhannad-Khaled&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
